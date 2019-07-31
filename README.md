@@ -8,10 +8,10 @@ This project is a mobile automation framework example built using Page Object Mo
 
 ### Features
 
-- Selenium 
-- ChromeDriver (Google Chrome browser)
-- GeckDriver (Mozilla Firefox browser)
+- Appium
 - TestNG
+- Maven 
+- Genymotion
 - Test Cases
 
 
