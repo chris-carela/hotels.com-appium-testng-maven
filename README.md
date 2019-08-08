@@ -17,7 +17,13 @@ This project is a mobile automation framework example built using Page Object Mo
 
 ### Requirements
 
-TBD
+- Eclipse IDE
+- Java Platform (JDK)
+- Android Home Studio (bash profile configured for adb)
+- Appium Node and Desktop Client
+- Genymotion (Free Personal Use Version)
+- Maven Dependencies including TestNG and Appium
+- Hotels.com APK
 
 
 ### Configuring
