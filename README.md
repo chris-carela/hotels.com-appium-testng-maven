@@ -34,3 +34,6 @@ TBD
 ### Running Tests
 
 TBD
+
+### Known Issues:
+- Test case doesn't execute due to "apk not found" error
